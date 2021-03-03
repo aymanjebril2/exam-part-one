@@ -92,5 +92,3 @@ function smallWordsOnly(arr) {
     name.length < 6;
   });
 }
-
-console;
